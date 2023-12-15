@@ -9,12 +9,12 @@
 5. 매주 토요일까지 각자 4~5개 문제를 가져온다.
 
 ## PR방식
-1. Pull Request의 이름을 `[이름] 문제명`식으로 작성 후 PR을 요청한다.
+1. Pull Request의 이름을 `[이름] 주차`식으로 작성 후 PR을 요청한다.
 2. 문제가 없으면 merge한다.
 
 ## 주차별 진행 사항
-| 주차 | | |
-|---|---|---|
-| 1주차 | 연속된 부분 수열의 합 | 숫자 변환하기 |
+| 주차 | | | | | | | | |
+|---|---|---| --- |--- |--- |--- |--- |--- |
+| 1주차 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341?language=java) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java)| [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
 
 
